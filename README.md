@@ -1,0 +1,2 @@
+# MemOS-MCP
+For myself
